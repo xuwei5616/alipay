@@ -1,0 +1,29 @@
+{
+  "name": "alipay-sdkto",
+  "version": "1.0.0",
+  "description": "支付宝支付sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuwei5616/alipay.git"
+  },
+  "keywords": [
+    "node",
+    "sdk",
+    "alipay"
+  ],
+  "author": "xuwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuwei5616/alipay/issues"
+  },
+  "homepage": "https://github.com/xuwei5616/alipay#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
